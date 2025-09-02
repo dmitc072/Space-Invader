@@ -1,5 +1,7 @@
 
 # Space Invader 👾
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
 
 ## 📌 Overview
 A **browser-based arcade game** inspired by the classic Space Invaders.  
