@@ -30,3 +30,7 @@ Built with **JavaScript and HTML Canvas**, this project showcases interactive ga
 git clone https://github.com/dmitc072/Space-Invader.git
 cd Space-Invader
 open index.html
+```
+
+## 📄 License
+This project is licensed under the [MIT License](https://github.com/dmitc072/Space-Invader/blob/main/LICENSE).
